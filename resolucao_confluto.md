@@ -1,1 +1,1 @@
-# Resolvendo o conflitos ;p
+# Resolvendo os conflitos ;p
