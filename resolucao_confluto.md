@@ -1,1 +1,1 @@
-# Resolvendo os conflitos -> Causando Conflito
+# Resolvendo os conflitos -> Causando Conflito <-
