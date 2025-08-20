@@ -1,3 +1,1 @@
-# Resolvendo os conflitos ;p paguando
-
-# Mais um hahaha
+# Resolvendo os conflitos -> Causando Conflito
