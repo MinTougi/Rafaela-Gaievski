@@ -1,4 +1,4 @@
-![k](image-1.png)# Roteiro – Merge de Branch & Pull Request (GitHub Flow)
+# Roteiro – Merge de Branch & Pull Request (GitHub Flow)
 
 ---
 
